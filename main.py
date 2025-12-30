@@ -1,4 +1,4 @@
-import lab_setup_do_not_edit
+
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
